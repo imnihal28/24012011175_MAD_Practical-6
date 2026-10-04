@@ -84,7 +84,9 @@ The main screen contains:
 
 ### 🎬 Demo Video
 
-[<video src="https://github.com/rutulpatel07/24012011123_MAD_Practical-6/raw/main/screenshots/demo_video.mp4" controls width="320"></video>](https://github.com/user-attachments/assets/04bf0028-8a46-4e50-8865-ddac68ca6ea0)
+### 🎬 Demo Video
+
+[<video src="https://github.com/NihalShah/24012011175_MAD_Practical-6/raw/main/Screenshots/demo_video.mp4" controls width="320"></video>](https://github.com/NihalShah/24012011175_MAD_Practical-6/raw/main/Screenshots/demo_video.mp4)
 
 
 
