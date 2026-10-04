@@ -120,4 +120,4 @@ The main screen contains:
 
 ---
 ## 🔗 Source Code
-GitHub Repository: [24012011123_MAD_Practical-6](https://github.com/rutulpatel07/24012011123_MAD_Practical-6)
+GitHub Repository: (https://github.com/imnihal28/24012011175_MAD_Practical-6)
